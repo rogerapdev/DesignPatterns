@@ -1,8 +1,13 @@
 # DesignPatterns
-Design Patterns C#
+Design Patterns - C#
 
 
-Decorator
+São soluções típicas para problemas comuns em projeto de software. Eles são como plantas de obra pré fabricadas que você pode customizar para resolver um problema de projeto recorrente em seu código.
+
+
+##Decorator
+
+Permite que você acople novos comportamentos para objetos ao colocá-los dentro de invólucros de objetos que contém os comportamentos
 
 Herança
 - É estática, não se pode alterar o comportamento de um objeto durante a execução
@@ -13,6 +18,17 @@ Agregação/Composição
 - Permite substituir um objeto por outros mudando o comportamento durante o tempo de execução
 
 
-Observer
+##Observer
 
-- Permite definir mecanismo de assinatura para identificar multiplos objetos sobre qualquer evento que aconteça no objeto que está sendo observado
+Permite que você defina um mecanismo de assinatura para notificar múltiplos objetos sobre quaisquer eventos que aconteçam com o objeto que eles estão observando
+
+
+##Abstract Factory
+
+Permite a criação de famílias de objetos relacionados ou dependentes por meio de uma única interface e sem que a classe concreta seja especificada
+
+
+
+## Referências
+
+https://refactoring.guru/pt-br/design-patterns
