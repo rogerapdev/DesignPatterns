@@ -5,7 +5,7 @@ Design Patterns - C#
 São soluções típicas para problemas comuns em projeto de software. Eles são como plantas de obra pré fabricadas que você pode customizar para resolver um problema de projeto recorrente em seu código.
 
 
-##Decorator
+## Decorator
 
 Permite que você acople novos comportamentos para objetos ao colocá-los dentro de invólucros de objetos que contém os comportamentos
 
@@ -18,12 +18,12 @@ Agregação/Composição
 - Permite substituir um objeto por outros mudando o comportamento durante o tempo de execução
 
 
-##Observer
+## Observer
 
 Permite que você defina um mecanismo de assinatura para notificar múltiplos objetos sobre quaisquer eventos que aconteçam com o objeto que eles estão observando
 
 
-##Abstract Factory
+## Abstract Factory
 
 Permite a criação de famílias de objetos relacionados ou dependentes por meio de uma única interface e sem que a classe concreta seja especificada
 
