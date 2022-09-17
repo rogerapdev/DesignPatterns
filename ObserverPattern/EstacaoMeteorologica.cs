@@ -9,7 +9,7 @@ namespace ObserverPattern
 
         private float _temperatura;
 
-        public float temperatura {
+        public float Temperatura {
             get { return _temperatura; }
             set { _temperatura = value; Notificar(); }
         }

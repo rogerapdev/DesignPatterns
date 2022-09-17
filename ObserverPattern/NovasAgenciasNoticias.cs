@@ -17,7 +17,7 @@ namespace ObserverPattern
         {
             if(subject is EstacaoMeteorologica estacao)
             {
-                Console.WriteLine(string.Format("{0} reportando a temperatura {1} graus celsius", NomeAgencia, estacao.temperatura));
+                Console.WriteLine(string.Format("{0} reportando a Temperatura {1} graus celsius", NomeAgencia, estacao.Temperatura));
                 Console.WriteLine();
             }
         }
