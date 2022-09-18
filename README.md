@@ -28,7 +28,13 @@ Permite que você defina um mecanismo de assinatura para notificar múltiplos ob
 Permite a criação de famílias de objetos relacionados ou dependentes por meio de uma única interface e sem que a classe concreta seja especificada
 
 
+## Factory Method
+
+Fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objetos que serão criados
+
 
 ## Referências
 
 https://refactoring.guru/pt-br/design-patterns
+https://www.youtube.com/playlist?list=PLfpYVugeLJLYxmNUhOdRzkr1sSDoHALdA
+https://www.dofactory.com/net/design-patterns
