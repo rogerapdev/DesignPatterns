@@ -38,6 +38,11 @@ Fornece uma interface para criar objetos em uma superclasse, mas permite que as 
 Fornece uma interface simplificada para uma biblioteca, um framework, ou qualquer conjunto complexo de classes
 
 
+## Adapter
+
+Permite objetos com interfaces incompatíveis colaborarem entre si
+
+
 ## Referências
 
 - https://refactoring.guru/pt-br/design-patterns
