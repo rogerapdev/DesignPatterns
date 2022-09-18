@@ -35,6 +35,6 @@ Fornece uma interface para criar objetos em uma superclasse, mas permite que as 
 
 ## Referências
 
-https://refactoring.guru/pt-br/design-patterns
-https://www.youtube.com/playlist?list=PLfpYVugeLJLYxmNUhOdRzkr1sSDoHALdA
-https://www.dofactory.com/net/design-patterns
+- https://refactoring.guru/pt-br/design-patterns
+- https://www.youtube.com/playlist?list=PLfpYVugeLJLYxmNUhOdRzkr1sSDoHALdA
+- https://www.dofactory.com/net/design-patterns
